@@ -19,7 +19,7 @@ Clone this repository to your local machine:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/calendar-application.git
+git clone https://github.com/dhanukarishika/calendar-application.git
 
 Navigate to the project folder:
 
